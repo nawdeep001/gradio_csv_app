@@ -26,4 +26,6 @@ provide information, and engage in fun conversations. What's on your mind?
 
 4. Now, create a Python script (app.py) with the implementation and run.
 
+5. You can run the a.py also to show clean csv file uploaded message.
+
 
