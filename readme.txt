@@ -1,3 +1,6 @@
+Author: Nawdeep Kumar 
+Email: 283nawdeep@gmail.com
+
 1. Install necessary dependencies:
 
 pip install gradio pandas matplotlib seaborn ollama pydantic
