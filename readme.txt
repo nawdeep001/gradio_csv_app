@@ -31,7 +31,7 @@ provide information, and engage in fun conversations. What's on your mind?
 
 5. You can run the a.py also to show clean csv file uploaded message.
 
-6. You can run c.py , it is fully running.
+6. You can run final2.py .
 
 
 
